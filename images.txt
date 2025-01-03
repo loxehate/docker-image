@@ -1,8 +1,8 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-ghcr.io/imputnet/cobalt:10.5.2-0f65165
+ghcr.io/imputnet/cobalt:7
+ghcr.io/containrrr/watchtower
 #支持指定架构
---platform linux/arm64 alpine:latest
---platform linux/amd64 alpine:latest
---platform linux/arm64 nginx:latest
---platform linux/amd64 nginx:latest
+#--platform linux/arm64 alpine:latest
+#--platform linux/amd64 alpine:latest
+
