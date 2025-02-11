@@ -1,0 +1,18 @@
+#支持私库
+langgenius/dify-api:0.15.2   
+postgres:15-alpine
+nginx:latest   
+redis:6-alpine 
+langgenius/dify-sandbox:0.2.10   
+ubuntu/squid:latest   
+semitechnologies/weaviate:1.19.0   
+langgenius/dify-web:0.15.2   
+langgenius/dify-api:0.15.2 
+#支持指定架构
+#--platform linux/arm64 alpine:latest
+#--platform linux/amd64 alpine:latest
+
+
+
+
+
