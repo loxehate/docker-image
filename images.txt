@@ -1,2 +1,2 @@
-wurstmeister/kafka:2.13-2.7.0
-wurstmeister/zookeeper:3.4.6
+bitnami/zookeeper:3.8
+bitnami/kafka:3.6
