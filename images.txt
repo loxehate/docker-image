@@ -1,1 +1,1 @@
---platform linux/arm64 minio/minio:RELEASE.2022-09-01T23-53-36Z
+--platform linux/arm64 nacos/nacos-server:2.3.1
