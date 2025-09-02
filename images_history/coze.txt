@@ -1,0 +1,9 @@
+mysql:8.4.5
+bitnami/redis:8.0
+bitnami/elasticsearch:8.18.0
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+bitnami/etcd:3.5
+milvusdb/milvus:v2.5.10
+nsqio/nsq:v1.2.1
+cozedev/coze-studio-server:latest
+cozedev/coze-studio-web:latest
