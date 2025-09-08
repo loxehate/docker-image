@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor
+infinilabs/coco:0.7.0
