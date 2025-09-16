@@ -1,2 +1,2 @@
-quay.io/jetstack/cert-manager-cainjector
+quay.io/jetstack/cert-manager-cainjector:v1.5.3
 milvusdb/milvus-operator:v1.3.0
