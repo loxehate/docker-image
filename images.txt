@@ -1,1 +1,1 @@
-registry.k8s.io/metrics-server/metrics-server:v0.8.0
+registry.k8s.io/dns/k8s-dns-node-cache:1.15.16
