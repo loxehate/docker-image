@@ -1,1 +1,2 @@
-docker.io/kubernetesui/dashboard-api:1.13.0
+registry.k8s.io/ingress-nginx/controller:v1.13.2
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.2
