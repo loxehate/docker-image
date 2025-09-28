@@ -1,2 +1,4 @@
-registry.k8s.io/ingress-nginx/controller:v1.13.2
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.2
+ghcr.io/prometheus-operator/prometheus-config-reloader:v0.83.0
+prom/prometheus:v3.4.2
+docker.io/grafana/loki:3.5.0
+kiwigrid/k8s-sidecar:1.30.3
