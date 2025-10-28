@@ -1,7 +1,1 @@
-milvusdb/milvus:v2.6.2
-milvusdb/heaptrack:v0.1.0
-zilliz/attu:v2.5.3
-milvusdb/etcd:3.5.18-r1
-apachepulsar/pulsar:3.0.7
-bitnamilegacy/zookeeper:3.7.0
-minio/minio:RELEASE.2024-12-18T13-15-44Z
+--platform linux/arm64 minio/minio:RELEASE.2023-03-20T20-16-18Z
