@@ -1,1 +1,1 @@
-milvusdb/birdwatcher:sha-1a22f18
+milvusdb/milvus-operator:v1.3.2
