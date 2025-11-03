@@ -1,2 +1,1 @@
-milvusdb/milvus-operator:v1.3.2
-milvusdb/milvus:v2.6.0
+minio/minio:RELEASE.2023-03-20T20-16-18Z
