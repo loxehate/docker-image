@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+quay.io/brancz/kube-rbac-proxy:v0.19.1
+ghcr.io/k8sgpt-ai/k8sgpt-operator:v0.2.24
