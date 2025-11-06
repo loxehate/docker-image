@@ -1,2 +1,1 @@
-quay.io/brancz/kube-rbac-proxy:v0.19.1
-ghcr.io/k8sgpt-ai/k8sgpt-operator:v0.2.24
+ghcr.io/k8sgpt-ai/k8sgpt:v0.4.1
