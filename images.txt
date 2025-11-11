@@ -1,1 +1,1 @@
-ghcr.io/k8sgpt-ai/k8sgpt:v0.4.1
+cr.fluentbit.io/fluent/fluent-bit:4.1.0
