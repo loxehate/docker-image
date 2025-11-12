@@ -1,1 +1,1 @@
-ghcr.io/jimmidyson/configmap-reload:v0.15.0
+quay.io/fluentd_elasticsearch/fluentd:v3.1.0
