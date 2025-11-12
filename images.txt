@@ -1,1 +1,1 @@
-elastic/filebeat:8.17.2
+docker.elastic.co/beats/filebeat-wolfi:8.17.2
