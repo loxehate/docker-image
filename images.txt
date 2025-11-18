@@ -1,1 +1,1 @@
-docker.elastic.co/beats/filebeat-wolfi:8.17.2
+registry.k8s.io/dns/k8s-dns-node-cache:1.23.1
