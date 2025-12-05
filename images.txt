@@ -1,1 +1,7 @@
-provectuslabs/kafka-ui:latest
+docker.io/grafana/loki-canary:3.5.7
+docker.io/nginxinc/nginx-unprivileged:1.29-alpine
+docker.io/grafana/loki:3.5.7
+docker.io/kiwigrid/k8s-sidecar:1.30.10
+memcached:1.6.39-alpine
+prom/memcached-exporter:v0.15.3
+docker.io/grafana/loki-helm-test:latest
