@@ -1,2 +1,2 @@
-quay.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
-quay.io/minio/mc:RELEASE.2024-11-21T17-21-54Z
+milvusdb/milvus:v2.6.7
+docker.io/milvusdb/etcd:3.5.25-r1
