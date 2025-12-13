@@ -1,2 +1,1 @@
-milvusdb/milvus:v2.6.7
-docker.io/milvusdb/etcd:3.5.25-r1
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.138.0
