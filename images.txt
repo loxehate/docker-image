@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.138.0
+registry.cn-hangzhou.aliyuncs.com/imagehubs/opentelemetry-collector-contrib:0.138.0
