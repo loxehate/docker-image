@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/imagehubs/opentelemetry-collector-contrib:0.138.0
+otel/opentelemetry-collector-contrib:0.142.0
