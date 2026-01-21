@@ -1,1 +1,2 @@
-rancher/rancher:v2.5.11
+quay.io/metallb/controller:v0.14.5
+quay.io/metallb/speaker:v0.14.5
