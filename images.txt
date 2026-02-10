@@ -1,1 +1,1 @@
-timberio/vector:0.53.0-alpine
+oceanbase/oceanbase-ce:4.3.5.5-105000012025111711
