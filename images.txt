@@ -1,4 +1,1 @@
-milvusdb/milvus:v2.3.15
-zilliz/attu:v2.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-quay.io/coreos/etcd:v3.5.5
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddlex-genai-vllm-server:latest-offline
