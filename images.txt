@@ -1,3 +1,1 @@
-chromadb/chroma:0.5.23
-ollama/ollama:latest
 nginx:alpine
