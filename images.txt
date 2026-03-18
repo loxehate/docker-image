@@ -1,4 +1,3 @@
-hub.icert.top/opensearchproject/opensearch:2.19.1
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
