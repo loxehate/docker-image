@@ -1,1 +1,1 @@
-ghcr.io/volcengine/openviking:main
+zhangyq/openviking:v0.2.13
