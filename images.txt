@@ -1,1 +1,1 @@
-ghcr.io/volcengine/openviking:v0.3.2
+ghcr.io/volcengine/openviking:latest
