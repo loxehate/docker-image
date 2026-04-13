@@ -1,2 +1,2 @@
 postgres:16
-nocobase/nocobase:latest-full
+budibase/apps
