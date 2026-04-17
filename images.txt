@@ -1,1 +1,2 @@
-ghcr.io/open-webui/open-webui:main
+nousresearch/hermes-agent:latest
+ghcr.io/nesquena/hermes-webui:latest
