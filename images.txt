@@ -1,1 +1,1 @@
-ghcr.io/volcengine/openviking:v0.3.8
+vllm/vllm-openai:v0.17.0
