@@ -1,1 +1,6 @@
-vllm/vllm-openai:v0.17.0
+docker.io/langfuse/langfuse-worker:3
+docker.io/langfuse/langfuse:3
+docker.io/clickhouse/clickhouse-server
+cgr.dev/chainguard/minio
+docker.io/redis:7
+docker.io/postgres:17
