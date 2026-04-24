@@ -1,1 +1,1 @@
-ghcr.io/arcreel/arcreel:latest
+postgres:18-alpine
