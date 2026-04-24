@@ -1,1 +1,1 @@
-postgres:18-alpine
+ghcr.io/volcengine/openviking:v0.3.10
