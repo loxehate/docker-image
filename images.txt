@@ -1,3 +1,1 @@
-calciumion/new-api:latest
-redis:latest
-postgres:15
+ghcr.io/arcreel/arcreel:latest
