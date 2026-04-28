@@ -1,1 +1,1 @@
-ghcr.io/arcreel/arcreel:latest
+ghcr.io/volcengine/openviking:v0.3.12
