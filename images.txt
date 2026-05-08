@@ -1,1 +1,1 @@
-ghcr.io/volcengine/openviking:v0.3.14
+eclipse-temurin:21-jre-bookworm
