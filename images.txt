@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-bookworm
+eclipse-temurin:21-jre-noble
