@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-noble
+openviking:v0.3.16
