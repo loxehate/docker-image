@@ -1,1 +1,3 @@
-caddy:2
+ghcr.io/iflytek/skillhub-server:latest
+ghcr.io/iflytek/skillhub-scanner:latest
+ghcr.io/iflytek/skillhub-web:latest
