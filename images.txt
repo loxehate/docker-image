@@ -1,1 +1,1 @@
-ghcr.io/volcengine/openviking:v0.3.17
+pyd4vinci/scrapling:latest
