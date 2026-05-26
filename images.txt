@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:2026.5.18
+ghcr.io/volcengine/openviking:v0.3.20
