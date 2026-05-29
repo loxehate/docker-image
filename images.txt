@@ -1,1 +1,1 @@
-ltralytics/ultralytics:latest
+xprobe/xinference:v2.9.0
