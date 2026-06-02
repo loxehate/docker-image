@@ -1,1 +1,1 @@
-xprobe/xinference:v2.9.0
+ghcr.io/volcengine/openviking:v0.3.22
