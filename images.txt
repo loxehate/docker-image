@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+ghcr.io/chopratejas/headroom:latest
