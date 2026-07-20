@@ -1,1 +1,1 @@
-eclipse-temurin:8u392-jdk
+ghcr.io/volcengine/openviking:v0.4.10
