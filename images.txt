@@ -1,1 +1,1 @@
-python:3.9
+vllm/vllm-openai-cpu:latest
