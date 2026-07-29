@@ -1,1 +1,1 @@
-t8y2/dbx:latest
+ vllm/vllm-openai:v0.22.1-cu129
