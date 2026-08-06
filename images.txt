@@ -1,1 +1,1 @@
- vllm/vllm-openai:v0.22.1-cu129
+public.ecr.aws/zinclabs/openobserve:latest
