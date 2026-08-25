@@ -1,1 +1,1 @@
-onlyoffice/documentserver:latest
+lmcache/vllm-openai:latest
