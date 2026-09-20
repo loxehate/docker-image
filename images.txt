@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+milvusdb/milvus:v2.6.3
