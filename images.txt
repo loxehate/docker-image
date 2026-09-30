@@ -1,1 +1,1 @@
-zilliz/attu:v2.6.3
+ghcr.io/apache/skywalking-horizon-ui:1.0.0
