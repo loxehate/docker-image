@@ -1,1 +1,2 @@
-nginx:latest
+milvusdb/milvus:v3.0.2
+zilliz/attu:v3.0.0
