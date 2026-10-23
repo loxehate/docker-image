@@ -1,2 +1,2 @@
-milvusdb/milvus:v3.0.2
-zilliz/attu:v3.0.0
+ghcr.io/openclaw/openclaw:2026.10.6
+ghcr.io/volcengine/openviking:v0.5.1.1
