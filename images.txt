@@ -1,2 +1,1 @@
-ghcr.io/openclaw/openclaw:2026.10.6
-ghcr.io/volcengine/openviking:v0.5.1.1
+registry.gitlab.com/riphixel/docker-libreoffice-impress:latest
