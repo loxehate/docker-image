@@ -1,1 +1,1 @@
-docker.io/jlesage/baseimage-gui:alpine-3.24-v4
+ghcr.io/openclaw/openclaw:2026.9.7
