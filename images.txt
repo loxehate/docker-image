@@ -1,1 +1,3 @@
-registry.gitlab.com/riphixel/docker-libreoffice-impress:latest
+docker:29-cli
+ghcr.io/astral-sh/uv:0.13.5
+python:3.13-slim-trixie
