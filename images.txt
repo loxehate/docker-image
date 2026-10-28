@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:2026.9.5
+ghcr.io/muchiny/bridge-mcp:latest
