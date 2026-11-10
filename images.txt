@@ -1,1 +1,1 @@
-ghcr.io/lanbaoshen/mcp-jenkins:3.6
+ghcr.io/muchiny/bridge-mcp:8.0.0
