@@ -1,1 +1,1 @@
-ghcr.io/muchiny/bridge-mcp:8.0.0
+ghcr.io/runzhliu/deepseek-harness:0.2.2-rc.1-r1
